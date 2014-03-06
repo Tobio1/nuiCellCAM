@@ -2,6 +2,8 @@
 nuiCellCAM
 ==========
 
+#### Attach a low cost/low weight automated fluorescence microscope (camera) to an Android mobile device to count and analyse biological cells (Tuberculosis, whithe blood cells, CD4, malaria) 
+
 Android/Java code for USB Camera 
 
 Eclipse project for android to use USB Webcam.
